@@ -1,5 +1,5 @@
 # Contributor: Héctor Acosta <hector.acosta@gmail.com>
-pkgname=python-vim
+pkgname=python-vim-git
 pkgver=20120315
 pkgrel=1
 pkgdesc="Simple tool used to easily modify scripts inside the python interactive console"
